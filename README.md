@@ -3,6 +3,16 @@
  <p align="left">● 👤Name：Tsubasa Nishikawa</p>
  <p align="left">● 👨Gender：He/Him</p>
  <p align="left">● 🌏Location：Kyoto, Japan</p>
+ <p align="left">● 🏫Education：</p>
+ <p align="left"> 　　①National Institute of Technology, Kagawa College, Japan　　　　　　　　　　March, 2015 <br>
+ 　　　　- Associate degree of Engineering, Major: Information Engineering </p>
+ <p align="left"> 　　②National Institute of Technology, Kagawa College, Japan　　　　　　　　　　March, 2017 <br>
+ 　　　　- Bachelor of Information Technology, Major: Information Engineering </p>
+ <p align="left"> 　　③Tokushima University, Japan　　　　　　　　　　　　　　　　　　　　　　  March, 2019 <br>
+ 　　　　- Master of Engineering, Major: Information Engineering </p>
+ <p align="left">● 💪Employment history：</p>
+ <p align="left"> 　　①Panasonic Industrial Devices and Systems Technology Co.,Ltd Kyoto, Japan　　March, 2019 <br>
+ <p align="left"> 　　②Miraxia Edge Technology Corporation Kyoto, Japan　　　　　　　　　　　　September, 2020 <br>
  <p align="left">● 🚴Hobbies：Driving, Cycling, Programming</p>
 </p>
 
