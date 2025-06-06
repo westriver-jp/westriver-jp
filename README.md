@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="left">
+ <h1 align="left">■■■ My Profile ■■■</h1>
+ <p align="left">● 👤Name：Tsubasa Nishikawa</p>
+ <p align="left">● 👨Gender：He/Him</p>
+ <p align="left">● 🌏Location：Kyoto, Japan</p>
+ <p align="left">● 🚴Hobbies：Driving, Cycling, Programming</p>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,c,html,linux,opencv,raspberrypi,sublime,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
+
 
 <!--
 **westriver-jp/westriver-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
