@@ -1,12 +1,12 @@
 <p align="left">
- <h1 align="left">■■■ My Profile ■■■</h1>
+ <h1 align="left">■ My Profile</h1>
  <p align="left">● 👤Name：Tsubasa Nishikawa</p>
  <p align="left">● 👨Gender：He/Him</p>
  <p align="left">● 🌏Location：Kyoto, Japan</p>
  <p align="left">● 🚴Hobbies：Driving, Cycling, Programming</p>
 </p>
 
-<h1 align="left">■■■ Languages and Tools ■■■</h1>
+<h1 align="left">■ Languages and Tools</h1>
 <p align="left">
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
